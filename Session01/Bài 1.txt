@@ -1,0 +1,5 @@
+Bài 1:
+Oval (Hình elip): Bắt đầu chương trinhf
+Hình chữ nhật: Các bước tính toán
+Hình thoi: Các bước quyết định và rẽ nhánh
+Mũi tên: Dòng chảy

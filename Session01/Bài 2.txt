@@ -1,0 +1,24 @@
+Bài 2
+- Mảng (Array): 
++ Đặc điểm chính: Là cấu trúc lưu trữ dữ liệu trong một vùng bộ nhớ liên tiếp. Mỗi phần tử trong mảng có thể được truy cập trực tiếp thông qua chỉ số của nó.
++ Ứng dungj phổ biến: Xử lý dữ liệu liên tục, lưu trữ danh sách cố định, bảng dữ liệu
+
+- Danh sách liên kết (LinkedList):
++ Đặc điểm chính: Gồm các phần tử (nút) được liên kết với nhau bằng các con trỏ, tạo thành một chuỗi. Mỗi nút chứa dữ liệu và con trỏ trỏ đến nút kế tiếp.
++Ứng dung phổ biến: Thực hiện các thao tác chèn, xóa nhanh, ứng dụng trong hệ thống quản lý bộ nhớ
+
+- Ngăn xếp (Stack):
++ Đặc điểm chính: Là cấu trúc dữ liệu theo nguyên tắc "LIFO" (Last In, First Out) – phần tử cuối cùng được thêm vào sẽ là phần tử đầu tiên được lấy ra.
++ Ứng dung phổ biến: Undo/Redo trong trình soạn thảo văn bản, xử lý biểu thức toán học
+
+- Hàng đợi (Queue):
++ Đặc điểm chính: Là cấu trúc dữ liệu theo nguyên tắc "FIFO" (First In, First Out) – phần tử đầu tiên được thêm vào sẽ là phần tử đầu tiên được lấy ra.
++ Ứng dung phổ biến: Hệ thống xếp hàng, lập lịch CPU, xử lý luồng dữ liệu
+
+- Cây (Tree):
++ Đặc điểm chính: Là một cấu trúc dữ liệu phân cấp bao gồm các nút. Nút gốc là nút chính và các nút con được kết nối với nhau theo cấu trúc phân nhánh, trong đó mỗi nút có thể có nhiều nút con.
++ Ứng dung phổ biến: Hệ thống tệp, cơ sở dữ liệu, thuật toán tìm kiếm
+
+- Đồ thị (Graph):
++ Đặc điểm chính: Là một tập hợp các nút (đỉnh) và các cạnh nối giữa các đỉnh. Đồ thị có thể có hoặc không có hướng, và mỗi đỉnh có thể kết nối với nhiều đỉnh khác.
++ Ứng dung phổ biến: Mạng xã hội, định tuyến, tối ưu hóa

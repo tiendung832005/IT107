@@ -1,0 +1,20 @@
+Bài 3:
+1. Lưu trữ danh sách sinh viên theo thứ tự nhập vào
+- Cấu trúc dữ lieu: Danh sách liên kết (Linked List)
+- Lý do: Danh sách liên kết có kích thước linh hoạt, dễ dàng thêm phần tử mới ở cuối mà không cần cấp phát lại bộ nhớ
+
+2. Tìm kiếm nhanh tên một sản phẩm trong danh sách hàng triệu sản phẩm
+- Cấu trúc dữ lieu: Hash Table hoặc Cây tìm kiếm nhị phân cân bằng (AVL, Red-Black Tree)
+- Lý do: Hash Table hỗ trợ tra cứu dữ liệu với độ phức tạp trung bình là O(1), rất nhanh khi làm việc với lượng lớn dữ liệu.
+
+3. Quản lý danh sách các task công việc cần xử lý theo thứ tự ưu tiên
+- Cấu trúc dữ lieu: Hàng đợi ưu tiên (Priority Queue)
+- Lý do: Hàng đợi ưu tiên luôn đảm bảo phần tử có độ ưu tiên cao nhất sẽ được xử lý trước
+
+4. Lưu trữ dữ liệu hệ thống phân cấp như thư mục máy tính
+- Cấu trúc dữ lieu: Cây (Tree)
+- Lý do: Cây biểu diễn tự nhiên các mối quan hệ phân cấp như thư mục và tệp. Nó cho phép thao tác tìm kiếm, thêm, và xóa một cách dễ dàng theo cấu trúc phân nhánh.
+
+5. Tìm đường đi ngắn nhất giữa 2 điểm trên bản đồ
+- Cấu trúc dữ lieu: Đồ thị (Graph)
+- Lý do: Đồ thị là cấu trúc lý tưởng để biểu diễn các điểm (đỉnh) và các con đường (cạnh). Các thuật toán tìm đường đi ngắn nhất như Dijkstra hoặc A* hoạt động trực tiếp trên đồ thị để tìm lộ trình tối ưu.
